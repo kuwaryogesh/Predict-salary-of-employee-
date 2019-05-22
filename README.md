@@ -1,2 +1,3 @@
 # Predict-salary-of-employee-
-EDA Predict salary of employee using simple linear regression
+We can predict the salary of employee using simple linear regression
+
